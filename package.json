@@ -1,6 +1,6 @@
 {
 	"name": "crossmon-memory",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"author": {
 		"name": "Thomas Hoffmann",
 		"email": "thomas.hoffmann@tualo.de"
@@ -22,7 +22,7 @@
 	],
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/tualo/crossmon-cpu.git"
+		"url": "git://github.com/tualo/crossmon-memory.git"
 	},
 	"readmeFilename": "README.md",
 	"dependencies": {
