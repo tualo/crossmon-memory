@@ -1,0 +1,31 @@
+{
+	"name": "crossmon-memory",
+	"version": "0.0.1",
+	"author": {
+		"name": "Thomas Hoffmann",
+		"email": "thomas.hoffmann@tualo.de"
+	},
+	"description": "Memory Usage collector for crossmon-collect",
+	"main": "./lib/mon",
+	"engines": {
+		"node": ">=0.8.0"
+	},
+	"keywords": [
+		"crossmon",
+		"cpu"
+	],
+	"licenses": [
+	{
+		"type": "MIT",
+		"url": "LICENSE"
+	}
+	],
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/tualo/crossmon-cpu.git"
+	},
+	"readmeFilename": "README.md",
+	"dependencies": {
+		"commander": ">=2.0.0"
+	}
+}
